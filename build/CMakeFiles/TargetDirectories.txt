@@ -1,0 +1,3 @@
+/mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/build/CMakeFiles/SignalCompression.dir
+/mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/build/CMakeFiles/rebuild_cache.dir
