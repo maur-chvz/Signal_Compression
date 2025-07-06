@@ -8,6 +8,7 @@ set(SOURCES
 
 set(HEADERS
     src/market_tick.h
+    src/thread_safe_queue.h
 )
 
 add_executable(SignalCompression ${SOURCES} ${HEADERS})

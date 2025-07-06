@@ -1,7 +1,7 @@
 CMakeFiles/SignalCompression.dir/src/market_tick.cpp.o: \
  /mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/src/market_tick.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/src/./market_tick.h \
+ /mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/src/market_tick.h \
  /usr/include/c++/12/iostream \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -161,7 +161,15 @@ CMakeFiles/SignalCompression.dir/src/market_tick.cpp.o: \
  /usr/include/c++/12/bits/chrono.h /usr/include/c++/12/ratio \
  /usr/include/c++/12/limits /usr/include/c++/12/ctime \
  /usr/include/c++/12/bits/parse_numbers.h /usr/include/c++/12/sstream \
- /usr/include/c++/12/bits/sstream.tcc /usr/include/c++/12/thread \
+ /usr/include/c++/12/bits/sstream.tcc /usr/include/c++/12/iomanip \
+ /usr/include/c++/12/locale \
+ /usr/include/c++/12/bits/locale_facets_nonio.h \
+ /usr/include/x86_64-linux-gnu/c++/12/bits/time_members.h \
+ /usr/include/x86_64-linux-gnu/c++/12/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/12/bits/codecvt.h \
+ /usr/include/c++/12/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/12/bits/locale_conv.h \
+ /usr/include/c++/12/bits/quoted_string.h /usr/include/c++/12/thread \
  /usr/include/c++/12/stop_token /usr/include/c++/12/atomic \
  /usr/include/c++/12/bits/atomic_base.h \
  /usr/include/c++/12/bits/atomic_lockfree_defines.h \
@@ -222,4 +230,15 @@ CMakeFiles/SignalCompression.dir/src/market_tick.cpp.o: \
  /usr/include/c++/12/bits/random.tcc /usr/include/c++/12/numeric \
  /usr/include/c++/12/bits/stl_numeric.h /usr/include/c++/12/bit \
  /usr/include/c++/12/pstl/glue_numeric_defs.h \
- /usr/include/c++/12/pstl/execution_defs.h
+ /usr/include/c++/12/pstl/execution_defs.h \
+ /mnt/c/Users/mauricio/Desktop/dev/Signal-Compression/src/thread_safe_queue.h \
+ /usr/include/c++/12/queue /usr/include/c++/12/deque \
+ /usr/include/c++/12/bits/stl_deque.h /usr/include/c++/12/bits/deque.tcc \
+ /usr/include/c++/12/bits/stl_heap.h /usr/include/c++/12/bits/stl_queue.h \
+ /usr/include/c++/12/mutex /usr/include/c++/12/bits/unique_lock.h \
+ /usr/include/c++/12/condition_variable \
+ /usr/include/c++/12/bits/shared_ptr.h \
+ /usr/include/c++/12/bits/shared_ptr_base.h \
+ /usr/include/c++/12/bits/allocated_ptr.h \
+ /usr/include/c++/12/ext/aligned_buffer.h \
+ /usr/include/c++/12/ext/concurrence.h /usr/include/c++/12/bits/align.h
