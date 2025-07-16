@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SignalCompression.dir/src/signal_compression.cpp.o CMakeFiles/SignalCompression.dir/src/market_tick.cpp.o -o SignalCompression 
